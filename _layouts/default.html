@@ -22,8 +22,9 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="item{% if current[1] == 'index.html' %} current{% endif %}" href="/">home</a>
-            <a class="item{% if current[1] == 'blog.html' %} current{% endif %}" href="/blog.html">blog</a>
+            <a class="item{% if current[1] == 'index.html' %} current{% endif %}" href="/">Home</a>
+            <a class="item{% if current[1] == 'projects.html' %} current{% endif %}" href="/projects.html">Projects</a>
+            <a class="item{% if current[1] == 'blog.html' %} current{% endif %}" href="/blog.html">Blog</a>
           </div>
 
           {{ content }}

@@ -20,8 +20,8 @@ because..
 
 Enter [Docker](https://www.docker.io/). I love this thing! I loved it
 so much I decided to learn it by building our my first Docker image,
-which is now available to use on [Docker Index](https://index.docker.io/u/pcting/ubuntu_hadoop_single_node/).
-The source code can be found on [GitHub](https://github.com/pcting/docker-container-recipes).
+which is now available to use on [Docker Index](https://index.docker.io/u/pcting/hadoop_single_node/).
+The source code can be found on [GitHub](https://github.com/pcting/docker-recipes).
 
 With this image, I just have to run the following to get an instance
 of Hadoop 2.2.0 going:
@@ -36,7 +36,7 @@ of Hadoop 2.2.0 going:
       -p 50090:50090 -p 8030:8030 -p 8031:8031 -p 8032:8032 \
       -p 8033:8033 -p 8088:8088 -p 8040:8040 -p 8042:8042 \
       -p 13562:13562 -p 47784:47784 -p 10020:10020 -p 19888:19888 \
-      pcting/ubuntu_hadoop_single_node
+      pcting/hadoop_single_node
 
 Once the container comes up, you can shell into the machine like so:
 
