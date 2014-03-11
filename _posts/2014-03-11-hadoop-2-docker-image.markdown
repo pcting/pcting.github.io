@@ -49,4 +49,4 @@ for providing great references material to get me started.
 When I have more time, it'll be interesting to invest time into using [vagrant-lxc](https://github.com/fgrehm/vagrant-lxc).
 But then again, maybe I'll just be more productive and spend the time
 to building out a Docker container for [Corgi](https://github.com/pcting/corgi)
-when it's ready to be [released](2014-03-10-imminent-initial-corgi-click-tracker-release.markdown)!
+when it's ready to be [released](/corgi/scala/2014/03/10/imminent-initial-corgi-click-tracker-release.html)!
