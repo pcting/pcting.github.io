@@ -26,7 +26,7 @@ The source code can be found on [GitHub](https://github.com/pcting/docker-contai
 With this image, I just have to run the following to get an instance
 of Hadoop 2.2.0 going:
 
-    mkdir -p /tmp/docker-hadoop-data/ /tmp/docker-hadoop-logs/ && \
+    $ mkdir -p /tmp/docker-hadoop-data/ /tmp/docker-hadoop-logs/ && \
     docker run -t -i -rm \
       -e "AUTHORIZED_SSH_PUBLIC_KEY=$(cat ~/.ssh/id_rsa.pub)" \
       -v /tmp/docker-hadoop-data/:/home/hduser/hdfs-data/ \
@@ -44,5 +44,5 @@ Once the container comes up, you can shell into the machine like so:
 
 Shoutout to [Michael Noll](http://www.rohitmenon.com/index.php/how-to-install-hadoop-on-ubuntulinux-mint/)
 and [Rohit Menon](http://www.rohitmenon.com/index.php/how-to-install-hadoop-on-ubuntulinux-mint/)
-for providing great references to get me started. When I have more
-time, maybe I'll even build one out for Corgi!
+for providing great references material to get me started. When I have
+more time, maybe I'll even build one out for Corgi!
