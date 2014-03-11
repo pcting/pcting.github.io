@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hadoop 2.2.0 + Ubuntu 13.10 + OpenSSH Server Docker Image"
-date:   2014-03-10 21:49:01
-categories: jekyll update
+date:   2014-03-11 08:00:00 UTC
+categories: hadoop docker
 ---
 
 Over the past several weeks, I've been reinstalling packages and tools
@@ -44,5 +44,9 @@ Once the container comes up, you can shell into the machine like so:
 
 Shoutout to [Michael Noll](http://www.rohitmenon.com/index.php/how-to-install-hadoop-on-ubuntulinux-mint/)
 and [Rohit Menon](http://www.rohitmenon.com/index.php/how-to-install-hadoop-on-ubuntulinux-mint/)
-for providing great references material to get me started. When I have
-more time, maybe I'll even build one out for Corgi!
+for providing great references material to get me started.
+
+When I have more time, it'll be interesting to invest time into using [vagrant-lxc](https://github.com/fgrehm/vagrant-lxc).
+But then again, maybe I'll just be more productive and spend the time
+to building out a Docker container for [Corgi](https://github.com/pcting/corgi)
+when it's ready to be [released](2014-03-10-imminent-initial-corgi-click-tracker-release.markdown)!

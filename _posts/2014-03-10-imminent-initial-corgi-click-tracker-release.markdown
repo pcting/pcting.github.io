@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Imminent Initial Corgi Click Tracker Release!"
-date:   2014-03-10 21:49:01
-categories: jekyll update
+date:   2014-03-10 23:59:59 UTC
+categories: corgi scala
 ---
 
 I've been really interested in Akka and Spay lately and what better to
