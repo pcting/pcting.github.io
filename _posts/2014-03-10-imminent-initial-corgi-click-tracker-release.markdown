@@ -31,8 +31,12 @@ It will be composed of the following components:
 * [NVD3](http://nvd3.org/) will be the charts library used to render
   the metrics.
 
-I plan to call the project Corgi and plan to release the code on
+I plan to release the code on
 [GitHub](https://www.github.com/pcting/corgi) under the Apache v2
 license.
 
-Stay tuned!
+I've already got some working code, but I'll release it once I've a
+good point where Corgi can be demoed. If anyone else is interested,
+shoot me an email!
+
+In the meantime, stay tuned for more to come!
