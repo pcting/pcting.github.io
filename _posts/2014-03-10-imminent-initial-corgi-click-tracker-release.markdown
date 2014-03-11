@@ -8,7 +8,7 @@ categories: jekyll update
 I've been really interested in Akka and Spay lately and what better to
 learn the frameworks than to utilizing them in real life! At this
 point, I figure doing something simple is a good start. I call it
-project __Corgi__!
+project Corgi!
 
 Corgi's primary purpose will be to provide a scalable click tracker
 service. Here are a list of features I'm thinking of including to reach
