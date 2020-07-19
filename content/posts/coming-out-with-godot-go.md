@@ -1,7 +1,7 @@
 ---
 title: "Introducing Godot Go Bindings"
 date: 2020-07-18T23:18:17-07:00
-draft: false
+draft: true
 toc: false
 images:
 tags:
