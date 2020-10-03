@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="//patrickting.com/tags/nativescript/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 -0700</lastBuildDate><atom:link href="//patrickting.com/tags/nativescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing godot-go: Go Bindings for Godot</title>
       <link>//patrickting.com/posts/2020-10-02-introducing-godot-go/</link>
