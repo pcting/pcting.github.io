@@ -1,0 +1,12 @@
+{{ $resize := .Get "resize" }}
+{{ $alt := .Get "alt" }}
+
+{{ with .Page.Resources.GetMatch (.Get "src") }}
+
+{{ $size := default "x150" $resize }}
+
+{{ $resizedImg := .Resize $size }}
+
+<img src="{{ $resizedImg.RelPermalink }}" alt="{{ $alt }}">
+
+{{ end }}
