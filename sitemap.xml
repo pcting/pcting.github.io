@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>//patrickting.com/</loc>
-    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//patrickting.com/posts/</loc>
     <lastmod>2020-10-02T00:00:00-07:00</lastmod>
   </url>
@@ -69,6 +64,11 @@
   
   <url>
     <loc>//patrickting.com/about/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
