@@ -7,10 +7,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 17 Jul 2020 22:33:31 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 -0700</lastBuildDate><atom:link href="//patrickting.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cgo</title>
+      <link>//patrickting.com/tags/cgo/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>//patrickting.com/tags/cgo/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="//patrickting.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gdnative</title>
+      <link>//patrickting.com/tags/gdnative/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>//patrickting.com/tags/gdnative/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>go</title>
+      <link>//patrickting.com/tags/go/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>//patrickting.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>godot</title>
+      <link>//patrickting.com/tags/godot/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>//patrickting.com/tags/godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>godot-go</title>
+      <link>//patrickting.com/tags/godot-go/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>//patrickting.com/tags/godot-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nativescript</title>
+      <link>//patrickting.com/tags/nativescript/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>//patrickting.com/tags/nativescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>//patrickting.com/tags/open-source/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>//patrickting.com/tags/open-source/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>untagged</title>

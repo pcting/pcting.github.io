@@ -3,17 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//patrickting.com/posts/</loc>
-    <lastmod>2020-07-17T22:33:31-07:00</lastmod>
+    <loc>//patrickting.com/tags/cgo/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>//patrickting.com/posts/reboot/</loc>
-    <lastmod>2020-07-17T22:33:31-07:00</lastmod>
+    <loc>//patrickting.com/tags/gdnative/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/tags/go/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/tags/godot/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/tags/godot-go/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/posts/2020-10-02-introducing-godot-go/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/tags/nativescript/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/tags/open-source/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/posts/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>//patrickting.com/tags/</loc>
+    <lastmod>2020-10-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//patrickting.com/posts/2020-07-17-reboot/</loc>
     <lastmod>2020-07-17T22:33:31-07:00</lastmod>
   </url>
   
@@ -24,11 +69,6 @@
   
   <url>
     <loc>//patrickting.com/about/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//patrickting.com/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   

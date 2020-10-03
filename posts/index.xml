@@ -6,15 +6,33 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Fri, 17 Jul 2020 22:33:31 -0700</lastBuildDate>
+		<lastBuildDate>Fri, 02 Oct 2020 00:00:00 -0700</lastBuildDate>
 		<atom:link href="//patrickting.com/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>Introducing godot-go: Go Bindings for Godot</title>
+			<link>//patrickting.com/posts/2020-10-02-introducing-godot-go/</link>
+			<pubDate>Fri, 02 Oct 2020 00:00:00 -0700</pubDate>
+			
+			<guid>//patrickting.com/posts/2020-10-02-introducing-godot-go/</guid>
+			<description>I&amp;rsquo;ve been using a lot of Go in my day to day job. I also have a strong love for open-source software community as almost all the software I depend on comes from the open-source community.
+This brings me to introduce my new project godot-go; Go bindings for the Godot game engine. I hope I can pull together a community to bring live into the project.
+This is the accummulation of a year woth of my off-hours software development time trying to get Cgo and Godot to work nicely together.</description>
+			<content type="html"><![CDATA[<p><img src="img/godot_plus_go.png" alt="Godot + Go"></p>
+<p>I&rsquo;ve been using a lot of <a href="https://golang.org/">Go</a> in my day to day job. I also have a strong love for open-source software community as almost all the software I depend on comes from the open-source community.</p>
+<p>This brings me to introduce my new project <a href="https://github.com/godot-go/godot-go">godot-go</a>; Go bindings for the <a href="https://godotengine.org/">Godot</a> game engine. I hope I can pull together a community to bring live into the project.</p>
+<p>This is the accummulation of a year woth of my off-hours software development time trying to get <a href="https://golang.org/cmd/cgo/">Cgo</a> and Godot to work nicely together. I&rsquo;d like to give thanks to an existing <a href="https://github.com/ShadowApex/godot-go/">ShadowApex/godot-go</a> project for providing inspiration for me to get my project off the ground.</p>
+<p>Please download and kick all the tires! I would rather see a flood of issues come in as opposed to nothing. If you have any questions, <a href="https://discord.gg/4JBkykG">join us</a> in the #gdnative-dev room on Discord and add me (<strong>surgical#3758</strong>) as a friend.</p>
+<p>I plan to create a series of blog posts following the development of the project.</p>
+]]></content>
+		</item>
+		
+		<item>
 			<title>Reboot</title>
-			<link>//patrickting.com/posts/reboot/</link>
+			<link>//patrickting.com/posts/2020-07-17-reboot/</link>
 			<pubDate>Fri, 17 Jul 2020 22:33:31 -0700</pubDate>
 			
-			<guid>//patrickting.com/posts/reboot/</guid>
+			<guid>//patrickting.com/posts/2020-07-17-reboot/</guid>
 			<description>I&amp;rsquo;m rebooting this site to formally release a project I&amp;rsquo;ve been working on for the past year.
 Stay tuned my friends!</description>
 			<content type="html"><![CDATA[<p>I&rsquo;m rebooting this site to formally release a project I&rsquo;ve been working on for the past year.</p>

@@ -7,17 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 17 Jul 2020 22:33:31 -0700</lastBuildDate>
-    
-	<atom:link href="//patrickting.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 17 Jul 2020 22:33:31 -0700</lastBuildDate><atom:link href="//patrickting.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reboot</title>
-      <link>//patrickting.com/posts/reboot/</link>
+      <link>//patrickting.com/posts/2020-07-17-reboot/</link>
       <pubDate>Fri, 17 Jul 2020 22:33:31 -0700</pubDate>
       
-      <guid>//patrickting.com/posts/reboot/</guid>
+      <guid>//patrickting.com/posts/2020-07-17-reboot/</guid>
       <description>I&amp;rsquo;m rebooting this site to formally release a project I&amp;rsquo;ve been working on for the past year.
 Stay tuned my friends!</description>
     </item>
