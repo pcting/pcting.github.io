@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 -0700</lastBuildDate><atom:link href="//patrickting.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="//patrickting.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Introducing godot-go: Go Bindings for Godot</title>
       <link>//patrickting.com/posts/2020-10-02-introducing-godot-go/</link>
@@ -16,7 +20,7 @@
       <guid>//patrickting.com/posts/2020-10-02-introducing-godot-go/</guid>
       <description>I&amp;rsquo;ve been using a lot of Go in my day to day job. I also have a strong love for open-source software community as almost all the software I depend on comes from the open-source community.
 This brings me to introduce my new project godot-go; Go bindings for the Godot game engine. I hope I can pull together a community to bring live into the project.
-This is the accummulation of a year woth of my off-hours software development time trying to get Cgo and Godot to work nicely together.</description>
+This is the accummulation of almost a year&amp;rsquo;s woth of off-hours tinkering getting Cgo to play nicely with Godot.</description>
     </item>
     
   </channel>

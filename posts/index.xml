@@ -17,11 +17,11 @@
 			<guid>//patrickting.com/posts/2020-10-02-introducing-godot-go/</guid>
 			<description>I&amp;rsquo;ve been using a lot of Go in my day to day job. I also have a strong love for open-source software community as almost all the software I depend on comes from the open-source community.
 This brings me to introduce my new project godot-go; Go bindings for the Godot game engine. I hope I can pull together a community to bring live into the project.
-This is the accummulation of a year woth of my off-hours software development time trying to get Cgo and Godot to work nicely together.</description>
+This is the accummulation of almost a year&amp;rsquo;s woth of off-hours tinkering getting Cgo to play nicely with Godot.</description>
 			<content type="html"><![CDATA[<p><img src="img/godot_plus_go.png" alt="Godot + Go"></p>
 <p>I&rsquo;ve been using a lot of <a href="https://golang.org/">Go</a> in my day to day job. I also have a strong love for open-source software community as almost all the software I depend on comes from the open-source community.</p>
 <p>This brings me to introduce my new project <a href="https://github.com/godot-go/godot-go">godot-go</a>; Go bindings for the <a href="https://godotengine.org/">Godot</a> game engine. I hope I can pull together a community to bring live into the project.</p>
-<p>This is the accummulation of a year woth of my off-hours software development time trying to get <a href="https://golang.org/cmd/cgo/">Cgo</a> and Godot to work nicely together. I&rsquo;d like to give thanks to an existing <a href="https://github.com/ShadowApex/godot-go/">ShadowApex/godot-go</a> project for providing inspiration for me to get my project off the ground.</p>
+<p>This is the accummulation of almost a year&rsquo;s woth of off-hours tinkering getting <a href="https://golang.org/cmd/cgo/">Cgo</a> to play nicely with Godot. I&rsquo;d like to give thanks to an existing <a href="https://github.com/ShadowApex/godot-go/">ShadowApex/godot-go</a> project for providing inspiration for me to get my project off the ground.</p>
 <p>Please download and kick all the tires! I would rather see a flood of issues come in as opposed to nothing. If you have any questions, <a href="https://discord.gg/4JBkykG">join us</a> in the #gdnative-dev room on Discord and add me (<strong>surgical#3758</strong>) as a friend.</p>
 <p>I plan to create a series of blog posts following the development of the project.</p>
 ]]></content>
